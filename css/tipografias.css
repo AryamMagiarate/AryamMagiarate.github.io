@@ -33,3 +33,21 @@ h1 {
 h1 {
     font-family: wind;
 }
+
+@font-face {
+    font-family: TimeS;
+    src: url(../times_sans_serif/TimeS.ttf);
+}
+
+h1 {
+    font-family: TimeS;
+}
+
+@font-face {
+    font-family: Sangi;
+    src: url(../sangi_serif/Sangi.ttf);
+}
+
+h1 {
+    font-family: Sangi;
+}

@@ -28,7 +28,7 @@
 }
 
 .miNombre h1 {
-    font-family: Maratre;
+    font-family: Sangi;
     font-size: 75px;
 }
 
@@ -89,17 +89,16 @@
 .accordion-button h3 {
     text-align: center;
     justify-content: center;
-    font-family: wind;
+    font-family: TimeS;
 }
 
 .cursos-slide {
     margin: 0;
     padding: 0;
-    ;
 }
 
 .miNombre p {
-    font-family: wind;
+    font-family: TimeS;
 }
 
 .cursos-descripcion {
@@ -122,14 +121,14 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-family: wind;
+    font-family: TimeS;
     margin-bottom: 20px;
 }
 
 .accordion-body {
     color: rgb(215, 243, 252);
     text-shadow: 10px 10px 10px rgb(6, 60, 141);
-    font-family: wind;
+    font-family: TimeS;
 }
 
 .carousel-slide {
@@ -138,11 +137,11 @@
 }
 
 .estudios h2 {
-    font-family: wind;
+    font-family: TimeS;
 }
 
 .certificados h2 {
-    font-family: wind;
+    font-family: TimeS;
 }
 
 .cursos-descripcion p {
