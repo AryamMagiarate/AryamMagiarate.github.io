@@ -1,0 +1,35 @@
+@font-face {
+    font-family: Amarillo;
+    src: url(../amarillo/Amarillo.ttf);
+}
+
+h1 {
+    font-family: Amarillo;
+}
+
+@font-face {
+    font-family: Weather-Sunday;
+    src: url(../weather_sunday/Weather-Sunday.otf);
+}
+
+h1 {
+    font-family: Weather-Sunday;
+}
+
+@font-face {
+    font-family: Maratre;
+    src: url(../maratre/Maratre.otf);
+}
+
+h1 {
+    font-family: Maratre;
+}
+
+@font-face {
+    font-family: wind;
+    src: url(../wind_sans_serif/wind.ttf);
+}
+
+h1 {
+    font-family: wind;
+}

@@ -1,0 +1,160 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    background-image: url(../img/FONDOAZUL.jpg);
+    background-size: cover;
+}
+
+.rounded-circle {
+    justify-content: center;
+    align-items: center;
+}
+
+.seccion1 {
+    margin-bottom: 20px;
+}
+
+.miNombre {
+    color: rgb(200, 222, 236);
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(22, 15, 126);
+    margin-top: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.miNombre h1 {
+    font-family: Maratre;
+    font-size: 75px;
+}
+
+.mifoto {
+    margin-top: 37px;
+    justify-content: center;
+    align-items: center;
+}
+
+.seccion1 {
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.carousel {
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+}
+
+.certificados {
+    justify-content: center;
+}
+
+.acordeon {
+    justify-content: center;
+    align-items: center;
+}
+
+.accordion {
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.accordion-item {
+    color: LightGray;
+    text-shadow: 10px 10px 10px white;
+    text-align: center;
+}
+
+.accordion-item h2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.accordion-button {
+    color: rgb(217, 237, 250);
+    background-color: rgb(39, 153, 247);
+    border-color: rgb(30, 17, 211);
+    text-shadow: 10px 10px 10px rgb(130, 180, 236);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.accordion-button h3 {
+    text-align: center;
+    justify-content: center;
+    font-family: wind;
+}
+
+.cursos-slide {
+    margin: 0;
+    padding: 0;
+    ;
+}
+
+.miNombre p {
+    font-family: wind;
+}
+
+.cursos-descripcion {
+    margin: 0;
+    padding: 0;
+}
+
+.certificados .carousel slide {
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.contacto .accordion-button {
+    color: rgb(191, 227, 252);
+    background-color: rgb(39, 153, 247);
+    border-color: rgb(30, 17, 211);
+    text-shadow: 10px 10px 10px rgb(204, 234, 243);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: wind;
+    margin-bottom: 20px;
+}
+
+.accordion-body {
+    color: rgb(215, 243, 252);
+    text-shadow: 10px 10px 10px rgb(6, 60, 141);
+    font-family: wind;
+}
+
+.carousel-slide {
+    justify-content: center;
+    align-items: center;
+}
+
+.estudios h2 {
+    font-family: wind;
+}
+
+.certificados h2 {
+    font-family: wind;
+}
+
+.cursos-descripcion p {
+    text-align: left;
+    margin-left: 10px;
+    font-family: wind;
+    text-shadow: 10px 10px 10px rgb(6, 60, 141);
+}
+
+@media(min-width:600px) {
+    .certificados .carousel-item {
+        width: 100%;
+        height: 150%;
+    }
+}
