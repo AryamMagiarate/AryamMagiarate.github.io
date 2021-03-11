@@ -114,7 +114,7 @@
 }
 
 .contacto .accordion-button {
-    color: rgb(191, 227, 252);
+    color: rgb(143, 203, 245);
     background-color: rgb(39, 153, 247);
     border-color: rgb(30, 17, 211);
     text-shadow: 10px 10px 10px rgb(204, 234, 243);
@@ -126,9 +126,10 @@
 }
 
 .accordion-body {
-    color: rgb(215, 243, 252);
-    text-shadow: 10px 10px 10px rgb(6, 60, 141);
+    color: rgb(201, 227, 252);
+    text-shadow: 10px 10px 10px rgb(6, 14, 61);
     font-family: TimeS;
+    background-color: rgb(7, 1, 34);
 }
 
 .carousel-slide {
