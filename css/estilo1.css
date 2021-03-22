@@ -1,153 +1,150 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
-.container-fluid {
-    background-image: url(../img/FONDOAZUL.jpg);
-    background-size: cover;
-}
-
-.rounded-circle {
-    justify-content: center;
-    align-items: center;
-}
-
-.seccion1 {
-    margin-bottom: 20px;
-}
-
-.miNombre {
-    color: rgb(200, 222, 236);
-    text-align: center;
-    text-shadow: 10px 10px 10px rgb(22, 15, 126);
-    margin-top: 5px;
-    justify-content: center;
-    align-items: center;
-}
-
-.miNombre h1 {
-    font-family: Sangi;
-    font-size: 75px;
-}
-
-.mifoto {
-    margin-top: 37px;
-    justify-content: center;
-    align-items: center;
-}
-
-.seccion1 {
-    justify-content: center;
-    align-items: flex-start;
-}
-
-.carousel {
-    justify-content: center;
-    align-items: center;
-    width: 200px;
-    height: 200px;
-}
-
-.certificados {
-    justify-content: center;
-}
-
-.acordeon {
-    justify-content: center;
-    align-items: center;
-}
-
-.accordion {
-    justify-content: center;
-    width: 100%;
-    height: 100%;
-}
-
-.accordion-item {
-    color: LightGray;
-    text-shadow: 10px 10px 10px white;
-    text-align: center;
-}
-
-.accordion-item h2 {
-    justify-content: center;
-    text-align: center;
-}
-
-.accordion-button {
-    color: rgb(217, 237, 250);
-    background-color: rgb(39, 153, 247);
-    border-color: rgb(30, 17, 211);
-    text-shadow: 10px 10px 10px rgb(130, 180, 236);
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-}
-
-.accordion-button h3 {
-    text-align: center;
-    justify-content: center;
-    font-family: TimeS;
-}
-
-.cursos-slide {
-    margin: 0;
-    padding: 0;
-}
-
-.miNombre p {
-    font-family: TimeS;
-}
-
-.cursos-descripcion {
-    margin: 0;
-    padding: 0;
-}
-
-.certificados .carousel slide {
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-}
-
-.contacto .accordion-button {
-    color: rgb(143, 203, 245);
-    background-color: rgb(39, 153, 247);
-    border-color: rgb(30, 17, 211);
-    text-shadow: 10px 10px 10px rgb(204, 234, 243);
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    font-family: TimeS;
-    margin-bottom: 20px;
-}
-
-.accordion-body {
-    color: rgb(201, 227, 252);
-    text-shadow: 10px 10px 10px rgb(6, 14, 61);
-    font-family: TimeS;
-    background-color: rgb(7, 1, 34);
-}
-
-.carousel-slide {
-    justify-content: center;
-    align-items: center;
-}
-
-.estudios h2 {
-    font-family: TimeS;
-}
-
-.certificados h2 {
-    font-family: TimeS;
-}
-
-.cursos-descripcion p {
-    text-align: left;
-    margin-left: 10px;
-    font-family: wind;
-    text-shadow: 10px 10px 10px rgb(6, 60, 141);
-}
+                    * {
+                        box-sizing: border-box;
+                        padding: 0;
+                        margin: 0;
+                    }
+                    
+                    .container-fluid {
+                        background-image: url(../img/FONDOAZUL.jpg);
+                        background-size: cover;
+                    }
+                    
+                    .rounded-circle {
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .seccion1 {
+                        margin-bottom: 20px;
+                    }
+                    
+                    .miNombre {
+                        color: rgb(200, 222, 236);
+                        text-align: center;
+                        text-shadow: 10px 10px 10px rgb(22, 15, 126);
+                        margin-top: 5px;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .miNombre h1 {
+                        font-family: Sangi;
+                        font-size: 75px;
+                    }
+                    
+                    .mifoto {
+                        margin-top: 37px;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .seccion1 {
+                        justify-content: center;
+                        align-items: flex-start;
+                    }
+                    
+                    .carousel {
+                        justify-content: center;
+                        align-items: center;
+                        width: 200px;
+                        height: 200px;
+                    }
+                    
+                    .certificados {
+                        justify-content: center;
+                    }
+                    
+                    .acordeon {
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .accordion {
+                        justify-content: center;
+                        width: 100%;
+                        height: 100%;
+                    }
+                    
+                    .accordion-item {
+                        color: rgb(158, 233, 247);
+                        text-align: center;
+                    }
+                    
+                    .accordion-item h2 {
+                        justify-content: center;
+                        text-align: center;
+                    }
+                    
+                    .accordion-button {
+                        color: rgb(217, 237, 250);
+                        background-color: rgb(39, 153, 247);
+                        border-color: rgb(30, 17, 211);
+                        justify-content: center;
+                        align-items: center;
+                        text-align: center;
+                    }
+                    
+                    .accordion-button h3 {
+                        text-align: center;
+                        justify-content: center;
+                        font-family: TimeS;
+                    }
+                    
+                    .cursos-slide {
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .miNombre p {
+                        font-family: TimeS;
+                    }
+                    
+                    .cursos-descripcion {
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .certificados .carousel slide {
+                        justify-content: center;
+                        align-items: center;
+                        margin: 0;
+                        padding: 0;
+                    }
+                    
+                    .contacto .accordion-button {
+                        color: rgb(217, 248, 247);
+                        background-color: rgb(39, 153, 247);
+                        border-color: rgb(30, 17, 211);
+                        justify-content: center;
+                        align-items: center;
+                        text-align: center;
+                        font-family: Times New Roman;
+                        margin-bottom: 20px;
+                    }
+                    
+                    .accordion-body {
+                        color: rgb(4, 28, 136);
+                        font-family: Times New Roman;
+                        font-size: 100%;
+                        background-color: rgb(173, 208, 253)
+                    }
+                    
+                    .carousel-slide {
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    
+                    .estudios h2 {
+                        font-family: TimeS;
+                    }
+                    
+                    .certificados h2 {
+                        font-family: TimeS;
+                    }
+                    
+                    .cursos-descripcion p {
+                        text-align: left;
+                        margin-left: 10px;
+                        font-family: Times New Roman;
+                        font-size: 100%;
+                    }
