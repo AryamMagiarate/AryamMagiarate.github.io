@@ -141,7 +141,7 @@
                     .cursos-descripcion p {
                         text-align: left;
                         margin-left: 10px;
-                       
+                        color:black;
                         font-size: 100%;
                     }
                     .accordion-body, .contenido-cursos{
