@@ -123,12 +123,7 @@
                         margin-bottom: 20px;
                     }
                     
-                    .accordion-body {
-                        color: rgb(4, 28, 136);
-                        font-family: Times New Roman;
-                        font-size: 100%;
-                        background-color: rgb(173, 208, 253)
-                    }
+                 
                     
                     .carousel-slide {
                         justify-content: center;
@@ -146,11 +141,12 @@
                     .cursos-descripcion p {
                         text-align: left;
                         margin-left: 10px;
-                        font-family: Times New Roman;
+                       
                         font-size: 100%;
                     }
-                    .accordion-body{
+                    .accordion-body, .contenido-cursos{
                         color:black;
+                        font-size: 100%;
                         font-family: Verdana;
                         text-shadow: rgb(15, 15, 36)  1.5px;
                         background-image: linear-gradient(rgb(76, 175, 241),rgb(202, 248, 240), rgb(56, 73, 129));
