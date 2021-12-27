@@ -2,6 +2,7 @@
                         box-sizing: border-box;
                         padding: 0;
                         margin: 0;
+                       
                     }
                     
                     .container-fluid {
@@ -147,4 +148,10 @@
                         margin-left: 10px;
                         font-family: Times New Roman;
                         font-size: 100%;
+                    }
+                    .accordion-body{
+                        color:black;
+                        font-family: Verdana;
+                        text-shadow: rgb(15, 15, 36)  1.5px;
+                        background-image: linear-gradient(rgb(76, 175, 241),rgb(202, 248, 240), rgb(56, 73, 129));
                     }
